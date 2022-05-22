@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-template-js",
+    "path": "/posts/TIL",
+    "result": {"pageContext":{"currentCategory":"TIL","categories":["All","TIL","블로그","featured"],"edges":[{"node":{"id":"de92f518-97db-5749-92c5-8c6e9b078496","excerpt":"시작 5월의 숙원사업으로 남아있던 블로그 만들기를 해냈다. three.js 실습 도중 알게된 줌코딩님의 블로그가 인상깊어 줌코딩님의 테마를 가져와 사용하게 되었다. 아직 구조가 익숙치 않지만 사용하면서 차차 적응해보려한다. 사실 블로그를 적용하기까지 몇 번의 실패가 있었지만,, 이렇게 성공해서 무척 뿌듯하다!🙌 처음 TIL을 알게된 것은 초보몽키님 때문이었다. 매일 새로 알게된 내용을 정리하고 하루를 되돌아보는 시간을 갖는다는 점이 마음을 흔들어 한동안 꾸준히 작성했는데 어느 순간부터 글자 하나를 수정하는 것에도 commit을 해야하는 과정이 복잡하게 느껴졌고 에버노트와 노션으로 넘어가면서 자연스레 git 블로그를 멈추게 되었다. 그런데 이제와서 다시 git 블로그를 시작하려는 이유는 TIL을 작성하기 위해서라도 새벽까지 공부하던 그 당시의 열정이 그리워서,,! 빠르게 흘러가는 하루를 기록하고 싶기도 하고, 이 블로그가 꾸준히 공부할 수 있는 동기부여가 되어주기를 바란다. 열심히 …","fields":{"slug":"/22-05-22-TIL/"},"frontmatter":{"categories":"TIL","title":"first posting","date":"May 22, 2022"}},"next":{"fields":{"slug":"/gatsby-github-blog/"}},"previous":null}]}},
+    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
