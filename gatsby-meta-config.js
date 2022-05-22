@@ -1,5 +1,5 @@
 module.exports = {
-  title: `jeondaegam.github.io`,
+  title: `Yeoreum log`,
   description: `여름 개발일기`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://jeondaegam.github.io/`,
