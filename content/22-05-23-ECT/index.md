@@ -31,3 +31,5 @@ prepareStatement로 sql을 전달한다.
 <img width="70%" src="https://user-images.githubusercontent.com/83997369/169747997-79371278-1056-48f7-b405-5a76ceb5649c.jpg"/>
 
 
+### 참고
+우아한Tech: [올레의 JPA와 JDBC](https://youtu.be/Ppqc3qN75EE)
