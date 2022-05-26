@@ -32,7 +32,13 @@ ES6 형식의 js 파일을 ES5로 변환하여 사용할 수 있게 만들어준
 ### Webpack의 구성요소
 
 ### 1. Entry(todo)
-
+webpack에서 웹 자원을 변환하기 위해 필요한 최초 진입점이자 자바스크립트 파일 경로이다.  
+```javascript
+// webpack.config.js
+module.exports = {
+  entry: './path/to/my/entry/file.js',
+};
+```
 ### 2. Output
 webpack의 번들링에 대한 결과를 어느 경로에 생성해낼 것인지와 이름을 정의하는 요소이다.
 - webpack.config.js  
