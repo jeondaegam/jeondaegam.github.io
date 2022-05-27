@@ -7,7 +7,7 @@ tags: TIL
 categories: TIL
 ---
 
-###What I did today
+
 어제 Webpack, Node.js, Gulp, TypeScript 개념을 전체적으로 훑고, 이어서 Node.js 개념을 정리했다.  
 나름 열심히 정리했는데 오늘 다시 열어보니 내용이 엉성하고 군더더기가 많아 보였다.😂  
 지금까지 이해한 것을 생각나는대로 정리해보자면  
@@ -20,7 +20,7 @@ Javascript에 비해 조금 더 질서가 있는 느낌이다! 그리고 이 Typ
 - `Gulp` : test 등 프로그램 구축시 반복적으로 작업해야하는 task들을 자동으로 수행해준다. Webpack이랑 비슷한 범주의 프로그램? 인것 같은데 webpack과는 다른 목적으로 사용하는 듯 하다.
 - `npm` : Node Package Manager의 약자로서 node.js에서 사용되는 패키지들을 관리한다. 
 
-### 오늘의 생각
+## 💭
 npm, package.json, gulp에 대해 조금 더 찾아보고 내일은 직접 사용해봐야겠다!  
 오랜만에 목적이 있는 공부를 하는 것 같아 기쁘다.(●'◡'●)  
 쉬는동안 나름의 흥미를 찾아보고자, 또 마냥 잘하고 싶은 마음에 이런저런 강의도 듣고 따라도 했었는데   
