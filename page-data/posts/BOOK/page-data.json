@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-template-js",
+    "path": "/posts/BOOK",
+    "result": {"pageContext":{"currentCategory":"BOOK","categories":["All","BOOK","ENG","TIL","ECT","블로그","featured"],"edges":[{"node":{"id":"6051c102-f216-5d7b-aabf-9d9cb2eb60a9","excerpt":"베로니카 죽기로 결심하다 - 파울로 코엘료 2022, 5. 5 ~ 5. 30 ㅡ 다른 사람들이 강요하는 방식이 아니라, 내가 꿈꾸는 대로 내 삶을 살고 싶거든. ㅡ 그들은 다른 사람들과 똑같은 짓거리를 하는 자신을 정상이라고 믿지. ㅡ 틀에 박힌 생활을 해온 그녀가 지금 정신병원이라는 꿈조차 꾸지 못했던 공간을 경험하고 있었던 것이다.\r\n아무런 부끄러움 없이 스스로 자신이 미친 사람이라고 고백할 수 있는 곳. 남에게 호의를 베풀어야 한다는 이유만으로\r\n자신들이 하던 재미있는 활동을 중단하지 않는 곳. ㅡ 그녀가 삶이 자연스레 강요한 것을 결국 받아들이고 만 것은 그녀 자신이 모든 것은 ‘그딴 바보짓’이라 생각했기 때문이다. ㅡ 어른이 되었을 때는, 뭔가를 바꾸기에는 이제 너무 늦었다고 체념했다.\r\n지금까지 무엇 하느라 내 모든 에너지를 소비한 거지? 그것도 내 삶에 아무런 변화도 일어나지 않게 하느라고. ㅡ 제드카는 무엇이 문제였는지 깨달았다. 그녀는 불가능한 사랑을 핑계 삼아 진…","fields":{"slug":"/22-06-14-BOOK/"},"frontmatter":{"categories":"BOOK","title":"22-06-14-ENG","date":"June 14, 2022"}},"next":{"fields":{"slug":"/22-06-02-ENG/"}},"previous":null}]}},
+    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}

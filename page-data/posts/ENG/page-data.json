@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-category-template-js",
+    "path": "/posts/ENG",
+    "result": {"pageContext":{"currentCategory":"ENG","categories":["All","BOOK","ENG","TIL","ECT","블로그","featured"],"edges":[{"node":{"id":"76d833d3-dcf0-54a4-bdcb-18a8266258e2","excerpt":"21 lessons I wish I’d known earlier in my software engineering career. 프로그래밍을 공부하는 것은 어렵다. 웹 개발자로서의 여정을 시작했던 6년전, 나는 그만두고 싶었다. 하지만 나는 이 기술 안에서 살아남았다. 그리고 나는 지금 이를 사랑한다. 여기 내가 사회생활 초반에 알았으면 좋았을 21가지 교훈이 있다. 1. 언어를 선택하자 믿기 어려울 정도로 많은 수의 언어가 존재한다.하지만 천천히 시작해야 한다.\r\n한번에 한가지를 선택한 후 가능한 많이 연습하자. 그 후에 다음으로 이동할 수 있다. 2. 프로그래밍의 개념(Concept)을 이해하자 (todo) 당신은 아마 ,,,일거야 새로운 프로그래밍 언어를 배울 때, 만약 당신이 기억하지 못한다면 그 문법이 맞다는 것을, 하지만 기억하는 것은 3. Online tutorials 를 사용하자 이것은 삶을 연장시켜준다. 새로운 기술을 배우는 것은 예전보다 쉽다. 왜 튜토리얼을 사용하…","fields":{"slug":"/22-06-02-ENG/"},"frontmatter":{"categories":"ENG","title":"22-06-02-ENG","date":"June 02, 2022"}},"next":{"fields":{"slug":"/22-05-27-TIL/"}},"previous":{"fields":{"slug":"/22-06-14-BOOK/"}}}]}},
+    "staticQueryHashes": ["1073350324","1956554647","2938748437"]}
