@@ -1,6 +1,6 @@
 ---
 emoji: 📜  
-title: 22-06-29-ENG  
+title: 22-06-02-ENG  
 date: '2022-06-02 21:00'  
 author: 여름  
 tags: english, translation  
