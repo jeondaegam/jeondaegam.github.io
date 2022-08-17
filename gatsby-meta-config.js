@@ -14,7 +14,7 @@ module.exports = {
     name: `전여름`,
     bio: {
       role: `개발자`,
-      description: ['매일 1%씩 성장하는','사람에 가치를 두는', '능동적으로 일하는', '이로운 것을 만드는'],
+      description: ['매일 1%씩 성장하는', '꾸준함을 지향하는', '사람에 가치를 두는', '이로운 것을 만드는'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {

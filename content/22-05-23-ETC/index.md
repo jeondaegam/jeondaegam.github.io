@@ -4,7 +4,7 @@ title: JPA가 뭐야?
 date: '2022-05-23 14:30'  
 author: 여름  
 tags: jpa  
-categories: ECT
+categories: ETC
 ---
 
 ## Persistence

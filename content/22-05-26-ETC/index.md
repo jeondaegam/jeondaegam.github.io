@@ -4,7 +4,7 @@ title: What is Node.js?
 date: '2022-05-26 19:30'  
 author: 여름  
 tags: node.js, npm  
-categories: ECT
+categories: ETC
 ---
   
 ###Node.js란?

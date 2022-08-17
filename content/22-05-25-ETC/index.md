@@ -4,7 +4,7 @@ title: What is Webpack?
 date: '2022-05-25 21:15'  
 author: 여름  
 tags: webpack, nodejs, npm  
-categories: ECT
+categories: ETC
 ---
 
 ###Webpack  

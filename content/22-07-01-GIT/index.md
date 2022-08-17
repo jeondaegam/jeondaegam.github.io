@@ -1,10 +1,10 @@
 ---
 emoji: 💡   
-title: Git 필수 명령어
+title: Git 필수 명령어  
 date: '2022-07-01 17:00'  
 author: 여름  
 tags: git, git명령어  
-categories: ECT
+categories: GIT
 ---
 
 
